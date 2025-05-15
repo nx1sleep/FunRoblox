@@ -14,3 +14,42 @@ ____
 > Github texter(me) - BeconownerRank
 
 ### *p.s - cheat - its bad and i know this*
+ㅤ
+
+ㅤ
+
+ㅤ
+
+ㅤ
+
+ㅤ
+
+ㅤ
+ㅤ
+
+ㅤ
+
+ㅤ
+
+ㅤ
+
+ㅤ
+
+ㅤ
+
+ㅤ
+
+ㅤ
+
+ㅤ
+
+ㅤ
+
+ㅤ
+
+ㅤ
+
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+```
+*oof*
