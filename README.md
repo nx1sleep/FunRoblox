@@ -1,14 +1,16 @@
-Hello, i'm nx_1sleep(Roblox accout) i script maker and internet guy, i making, seraching, modifing scripts and upload here
+# **FunRoblox**
+This is a regular project where you can find cool places, buggy stuff, and just cool scripts (cheats).
 
-*You can use all script in you risk*
-____________________________________________________________________
+____
 
-**Category: Basic Cheat, Visual, Exploits**
+**Project Deveploers**
+> 
+> Owner - nx_1sleep
+>
+> Coder 1 - padirty
+> 
+> Coder 2 - oofyourselfnow1
+>
+> Github texter(me) - BeconownerRank
 
-*Basic Cheat - its literaly scripts (Walkspeed, Fly and more...)*
-
-*Visual - its cool graphyc, shaders, UI modifys and more...*
-
-*Exploits - by like God Mode, Fling, Bring and more...*
-
-**Goodbye!**
+### *p.s - cheat - its bad and i know this*
